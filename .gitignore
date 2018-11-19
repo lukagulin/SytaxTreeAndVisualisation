@@ -1,0 +1,7 @@
+nbproject/*
+build/*
+dist/*
+.dep.inc
+Makefile
+*.dot
+*.svg
